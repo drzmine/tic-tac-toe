@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A beautiful, fully-featured offline Tic Tac Toe game with smart AI difficulties and detailed match history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
